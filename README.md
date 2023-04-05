@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, there! I'm Lucas.
 
-<!--
-**lucasiqueira/lucasiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Minsait
+- 🌱 I’m currently learning Web Development at Trybe
 
-Here are some ideas to get you started:
+<a href="https://github.com/lucasiqueira/github-readme-stats">
+  <img height=150em src="https://github-readme-stats.vercel.app/api?username=lucasiqueira&theme=gotham&hide=stars,issues&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/lucasiqueira/convoychat">
+  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasiqueira&theme=gotham&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
