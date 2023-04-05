@@ -10,5 +10,4 @@
   <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasiqueira&theme=gotham&layout=compact" />
 </a>
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+##
