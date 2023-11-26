@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 👨‍💻 All of my projects are available at [https://lucasiqueira.github.io/](https://lucasiqueira.github.io/)
+- 👨‍💻 All of my projects are available at [https://lucasiqueira-portfolio.vercel.app/](https://lucasiqueira-portfolio.vercel.app/)
 
 - 📫 How to reach me **lucasvinicius.siqueira@gmail.com**
 
