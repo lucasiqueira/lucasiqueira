@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Lucas Siqueira</h1>
 <h3 align="center">Full-Stack Web Developer from Brazil</h3>
 
-- 🔭 I’m currently working at **Banco do Brasil** as a Software Developer.
+- I’m currently working at **Banco do Brasil** as a Software Developer.
 
-- 👯 I’m looking to collaborate on **Web Development projects**.
+- I’m looking to collaborate on **Web Development projects**.
 
-- 👨‍💻 Some of my projects are available [here](https://lucasiqueira-portfolio.vercel.app/).
+- Some of my projects are available [here](https://lucasiqueira-portfolio.vercel.app/).
 
-- 📫 How to reach me **lucasvinicius.siqueira@gmail.com**
+- How to reach me **lucasvinicius.siqueira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
