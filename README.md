@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Siqueira</h1>
+<h1 align="center">Hello, I'm Lucas Siqueira</h1>
 <h3 align="center">Full-Stack Web Developer from Brazil</h3>
 
 - 🔭 I’m currently working at **Banco do Brasil** as a Software Developer.
